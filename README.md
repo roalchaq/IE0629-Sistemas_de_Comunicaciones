@@ -14,6 +14,7 @@ A continuación se detallan los notebooks disponibles actualmente en el reposito
 | :--- | :--- |
 | 📘 [Decodificación de Viterbi y Diagrama de Trellis](./Decodificación_de_Viterbi_y_Diagrama_de_Trellis.ipynb) | Estudio e implementación del algoritmo de decodificación de Viterbi y la representación mediante diagramas de trellis para códigos convolucionales. |
 | 📘 [Gradient Descent](./gradient_descent.ipynb) | Introducción y desarrollo práctico del algoritmo de optimización por descenso de gradiente. |
+| 📘 [Funciones de Activación y Neuronas Muertas](./Funciones_de_Activación_y_Neuronas_Muertas.ipynb) | Para comprender por qué ocurre el fenómeno del *Dying ReLU* y cómo lo solucionan otras alternativas. |
 
 ---
 
