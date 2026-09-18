@@ -16,6 +16,7 @@ A continuación se detallan los notebooks disponibles actualmente en el reposito
 | 📘 [Gradient Descent](./gradient_descent.ipynb) | Introducción y desarrollo práctico del algoritmo de optimización por descenso de gradiente. |
 | 📘 [Funciones de Activación y Neuronas Muertas](./Funciones_de_Activación_y_Neuronas_Muertas.ipynb) | Para comprender por qué ocurre el fenómeno del *Dying ReLU* y cómo lo solucionan otras alternativas. |
 | 📘 [Codificación Conjunta de Canal y Fuente (JSCC)](./JSCC.ipynb) | Comparativa práctica entre compresión lineal clásica (PCA) y codificación conjunta fuente-canal neuronal (DeepJSCC) para la transmisión de imágenes bajo ruido AWGN. |
+| 📘 [Neural Network Coding (NNC)](./NNC_Butterfly_MNIST.ipynb) | Este notebook implementa la simulación de transmisión de imágenes sobre una red en mariposa (Butterfly Network) utilizando redes neuronales entrenadas end-to-end para combinar codificación de fuente y canal mediante NNC. |
 
 ---
 
