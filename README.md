@@ -19,6 +19,7 @@ A continuación se detallan los notebooks disponibles actualmente en el reposito
 | 📘 [Neural Network Coding (NNC)](./NNC_Butterfly_MNIST.ipynb) | Implementa la simulación de transmisión de imágenes sobre una red en mariposa (Butterfly Network) utilizando redes neuronales entrenadas end-to-end para combinar codificación de fuente y canal mediante NNC. |
 | 📘 [Codificación de Canal](./Codificacion_de_canal.ipynb) | Explora la modernización de los sistemas de comunicaciones reemplazando la cadena clásica de transmisión (codificador → modulador → detector/decodificador) por un único sistema de aprendizaje profundo entrenado de extremo a extremo. |
 | 📘 [Estimación de Canal y Detección en OFDM](./Lab_OFDM_DeepLearning.ipynb) | Compara receptores OFDM clásicos (LS, MMSE, ZF) con receptores basados en redes neuronales. |
+| 📘 [Aprendizaje Automático Basado en Modelos para Comunicaciones](./lab_viterbinet.ipynb) | Compara la detección de secuencias óptima en canales con interferencia entre símbolos utilizando el algoritmo clásico de Viterbi, frente al enfoque híbrido ViterbiNet. |
 
 ---
 
