@@ -20,7 +20,8 @@ A continuación se detallan los notebooks disponibles actualmente en el reposito
 | 📘 [Codificación de Canal](./Codificacion_de_canal.ipynb) | Explora la modernización de los sistemas de comunicaciones reemplazando la cadena clásica de transmisión (codificador → modulador → detector/decodificador) por un único sistema de aprendizaje profundo entrenado de extremo a extremo. |
 | 📘 [Estimación de Canal y Detección en OFDM](./Lab_OFDM_DeepLearning.ipynb) | Compara receptores OFDM clásicos (LS, MMSE, ZF) con receptores basados en redes neuronales. |
 | 📘 [Aprendizaje Automático Basado en Modelos para Comunicaciones](./lab_viterbinet.ipynb) | Compara la detección de secuencias óptima en canales con interferencia entre símbolos utilizando el algoritmo clásico de Viterbi, frente al enfoque híbrido ViterbiNet. |
-| 📘 [K-means con restricciones](./lab_viterbinet.ipynb) | Notebook tutorial en Python que enseña, con un ejemplo de 6 servidores y paso a paso, cómo usar el Lagrangiano y un algoritmo primal-dual para que K-Means respete un límite de tamaño por cluster, interpretando el multiplicador λ como precio sombra.. |
+| 📘 [K-means con restricciones](./lab_viterbinet.ipynb) | Notebook tutorial en Python que enseña, con un ejemplo de 6 servidores y paso a paso, cómo usar el Lagrangiano y un algoritmo primal-dual para que K-Means respete un límite de tamaño por cluster, interpretando el multiplicador λ como precio sombra. |
+| 📘 [WMMSE vs. SFP vs. una red neuronal MLP](./interference_channel_power_control.ipynb) | Laboratorio práctico para comparar tres enfoques en la asignación de potencia de transmisión (Power Control) para un canal de interferencia de múltiples usuarios. |
 
 ---
 
