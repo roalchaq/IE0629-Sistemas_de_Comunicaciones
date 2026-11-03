@@ -22,6 +22,7 @@ A continuación se detallan los notebooks disponibles actualmente en el reposito
 | 📘 [Aprendizaje Automático Basado en Modelos para Comunicaciones](./lab_viterbinet.ipynb) | Compara la detección de secuencias óptima en canales con interferencia entre símbolos utilizando el algoritmo clásico de Viterbi, frente al enfoque híbrido ViterbiNet. |
 | 📘 [K-means con restricciones](./lab_viterbinet.ipynb) | Notebook tutorial en Python que enseña, con un ejemplo de 6 servidores y paso a paso, cómo usar el Lagrangiano y un algoritmo primal-dual para que K-Means respete un límite de tamaño por cluster, interpretando el multiplicador λ como precio sombra. |
 | 📘 [WMMSE vs. SFP vs. una red neuronal MLP](./interference_channel_power_control.ipynb) | Laboratorio práctico para comparar tres enfoques en la asignación de potencia de transmisión (Power Control) para un canal de interferencia de múltiples usuarios. |
+| 📘 [Aprendizaje Colaborativo en el Borde Inalámbrico](./Aprendizaje_Colaborativo_Borde_Inalambrico.ipynb) | Notebook que compara cuatro paradigmas de optimización colaborativa (PSSGD, D2D, FedAvg y SlowMo) con datos no-IID sobre un canal inalámbrico con desvanecimiento Rayleigh y nodos rezagados. |
 
 ---
 
